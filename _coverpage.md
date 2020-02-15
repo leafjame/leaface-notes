@@ -4,7 +4,7 @@
 
 <h1> Leaface </h1>
 
-- 收集整理的技术知识点，欢迎查阅！
+- 整理的技术知识集，欢迎查阅！
 
 <!--<span id="busuanzi_container_site_pv">Site View : <span id="busuanzi_value_site_pv">-->
 
